@@ -1,3 +1,13 @@
+#comments
+print("A double-quote's escaped using a backslash, e.g. \\\"")
+
+#types
 L = float(inputStr)
 A= L*L
 print(int(A/100))
+
+#input
+line = input()
+linea = line
+print(line)
+print(linea)
