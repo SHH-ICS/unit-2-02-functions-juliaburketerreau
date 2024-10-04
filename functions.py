@@ -1,15 +1,11 @@
-weightlimitmaxa=a
-weightlimitmaxb=b
-weightlimitmaxc=c
-weightlimit=min(weightlimitmaxa, weightlimitmaxb, weightlimitmaxc)
-print(weightlimit)
 
 
-weightlimita=a
-weightlimitb=b
-weightlimitc=c
-weightlimitd=d
-weightlimite=e
+
+weightlimita=5
+weightlimitb=132
+weightlimitc=67
+weightlimitd=90
+weightlimite=45
 weightlimitf=min(weightlimita,weightlimitb, weightlimitc)
 weightlimitg=min(max(weightlimitd, weightlimitf), weightlimite)
 weightlimith=max(weightlimitf,weightlimitg)
